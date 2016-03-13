@@ -1,0 +1,8 @@
+支持淡入淡出翻转等切换效果的tab标签代码，兼容主流浏览器，懒人图库推荐下载！
+
+使用方法：
+1、head区域引用文件 jquery.js，tabulous.js, reset-min.css, tabulous.css
+2、在文件中加入<!-- 代码 开始 --><!-- 代码 结束 -->区域代码
+3、可以修改js代码中的effect参数,有4个可选值: scale、slideLeft、scaleUp、flip
+
+*更多代码请访问：懒人图库 www.lanrentuku.com/js/
